@@ -35,7 +35,7 @@ in the study time, just press the button and when you press it again, the study 
 
 The circuit follows the following form:
 
-![Project circuit]("https://github.com/AndrePinheiroPT/StudyRegulator/blob/main/img/circuit.JPG")
+![Project circuit](https://github.com/AndrePinheiroPT/StudyRegulator/blob/main/img/circuit.JPG)
 
 *Image of the circuit*
 
