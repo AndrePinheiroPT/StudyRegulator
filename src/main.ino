@@ -11,8 +11,8 @@ unsigned long int times[50] = {};
 const unsigned long int studyTime = 1800000;
 const unsigned long int relaxTime = 600000;
 
-int studyTimeDeveloped(int timeDeveloped){
-    int studyTime = 0;
+unsigned long int studyTimeDeveloped(unsigned long int timeDeveloped){
+    unsigned long int studyTime = 0;
     // Sum all intervals studied
     for(int i = enjoyStudy; i < pointer; i+=2){
         studyTime += times[i+1] - times[i];
