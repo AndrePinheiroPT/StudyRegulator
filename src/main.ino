@@ -19,7 +19,7 @@ unsigned long int studyTimeDeveloped(unsigned long int timeDeveloped){
     }
 
     // Last interval studied
-    studyTime += timeDeveloped - times[k];
+    studyTime += timeDeveloped - times[pointer];
 
     return studyTime;
 }
@@ -78,5 +78,5 @@ void loop() {
     }else{
         digitalWrite(10, LOW);
         digitalWrite(11, HIGH);
-    } k
+    }
 }
