@@ -39,5 +39,10 @@ The circuit follows the following form:
 
 *Image of the circuit*
 
+# How to use?
+
+You need have your arduino connected with the computer and execute the `main.ino` from `src` using the arduino IDE.
+After this, if the D10 led turn on, that means that the circuit is working. 
+
 ## Do you have some issue?
 If you find a bug or something like that, create an issue for help us to solve :)
